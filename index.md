@@ -6,3 +6,6 @@
 ``` python
 var = [1,2,3]
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
